@@ -1,0 +1,41 @@
+.section__advancement{
+    background-image: url(../img/blok-1bakground.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+}
+
+.description{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: rem(25);
+}
+
+.section__title{
+    width: rem(450);
+    margin: 0 auto;
+    text-align: center;
+    font-size: rem(23);
+    color: #fff;
+}
+
+.description__wrap{
+    position:relative;
+    background-color:#39316E;
+    height: rem(200);
+    width: rem(350);
+}
+
+.description__text p{
+    font-size: rem(11);
+    color: #fff;
+    padding: rem(5) rem(22);
+    margin: 0;
+}
+
+.promo__video{
+    background-color:peru;
+    height: rem(200);
+    width: rem(350);
+}

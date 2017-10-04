@@ -1,0 +1,14 @@
+.button{
+    display: inline-block;
+    position: absolute;
+    left: rem(22);
+    bottom: rem(18);
+}
+
+.button__link{
+    padding: rem(10);
+    background: #4C4491;
+    border-radius: rem(5);
+    color: #fff;
+    text-decoration: none;
+}

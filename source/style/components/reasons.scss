@@ -1,0 +1,37 @@
+.reasons__title{
+    width: 28.125rem;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 1.4375rem;
+
+}
+.reasons__list{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: rem(25);
+}
+.reason__item{
+    width: rem(185);
+    height: rem(155);
+    color: #292526;
+    text-align: center;
+}
+
+.reason__icon{
+    margin: 0 auto;
+    width: rem(65);
+    height: rem(70);
+}
+
+.reason__img{
+    max-width: 100%;
+    height: auto;
+}
+
+.reason__title{
+    font-size: rem(24);
+}
+
+.reason__button{
+    text-align: center;
+}
